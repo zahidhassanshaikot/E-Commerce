@@ -224,7 +224,7 @@ Route::post('/cart/update', [
 ]);
 
 
-
+// Route::get('futyre','what@index');
 
 
 
